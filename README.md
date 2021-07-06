@@ -1,2 +1,5 @@
-# README.md
-Readme Introduction
+- 👋 Hi, I’m @LisaBencic
+- 👀 I’m interested in ERP development
+- 🌱 I’m currently learning LN Cloud development
+- 💞️ I’m looking to collaborate on LN Cloud development
+- 📫 Reach me at Crossroads RMC!  lbencic@crossroadsrmc.com
